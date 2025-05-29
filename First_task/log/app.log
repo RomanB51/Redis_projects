@@ -1,0 +1,30 @@
+gprefix: 2025/05/28 16:14:49 This is a log message
+prefix: 2025/05/28 16:15:31 This is a log message
+prefix: 2025/05/28 16:34:58 This is a log message
+prefix: 2025/05/28 16:36:40 This is a log message
+prefix: 2025/05/29 08:56:01 This is a log message
+prefix: 2025/05/29 09:15:27 This is a log message
+prefix: 2025/05/29 09:16:45 This is a log message
+prefix: 2025/05/29 09:18:56 This is a log message
+prefix: 2025/05/29 12:29:27 config/config.json is open
+prefix: 2025/05/29 12:29:27 Успешное подключение к БД
+prefix: 2025/05/29 12:29:27 
+prefix: 2025/05/29 12:30:54 config/config.json is open
+prefix: 2025/05/29 12:30:55 Успешное подключение к БД
+prefix: 2025/05/29 12:30:55 
+prefix: 2025/05/29 12:32:00 config/config.json is open
+prefix: 2025/05/29 12:32:00 Успешное подключение к БД
+prefix: 2025/05/29 12:32:26 config/config.json is open
+prefix: 2025/05/29 12:32:26 Ошибка подключения к БД: dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+prefix: 2025/05/29 12:33:45 config/config.json is open
+prefix: 2025/05/29 12:33:45 Ошибка подключения к БД:dial tcp [::1]:6379: connectex: No connection could be made because the target machine actively refused it.
+prefix: 2025/05/29 13:17:55 Конфигурационный файл считан
+prefix: 2025/05/29 13:17:55 Успешное подключение к БД
+prefix: 2025/05/29 13:59:08 Конфигурационный файл считан
+prefix: 2025/05/29 13:59:12 Ошибка подключения к БД: i/o timeout
+prefix: 2025/05/29 14:01:51 Конфигурационный файл считан
+prefix: 2025/05/29 14:01:51 Успешное подключение к БД
+prefix: 2025/05/29 14:03:22 Конфигурационный файл считан
+prefix: 2025/05/29 14:03:22 Успешное подключение к БД
+prefix: 2025/05/29 14:13:18 Конфигурационный файл считан
+prefix: 2025/05/29 14:13:19 Успешное подключение к БД
