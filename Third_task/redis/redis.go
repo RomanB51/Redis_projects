@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	logger "second_tack/log"
+	logger "Third_task/log"
 
 	"context"
 
